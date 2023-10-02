@@ -39,6 +39,6 @@ gantt
 ```
 
 # PERT圖
-![PERT關鍵路徑](PERT關鍵路徑.png "PERT關鍵路徑")
+![PERT](PERT.png "PERT")
 
 # 關鍵路徑：1→2→4→6→9→11
